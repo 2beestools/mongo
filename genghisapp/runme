@@ -1,0 +1,4 @@
+gem install genghisapp
+gem install bson_ext -v 1.9.2
+genghisapp
+
